@@ -1,4 +1,4 @@
 # Trial-demo
 This is my first repository
 <br>
-Author- Madhura Teli
+Author- Madhura Teli (Walchand College)
